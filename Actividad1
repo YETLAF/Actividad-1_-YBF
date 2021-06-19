@@ -1,0 +1,9 @@
+import Foundation
+
+var v1 = " esto es Swift" // Se asigna la variable v1 al texto
+let c1 = 4 // Se asigna la variable c1 al valor de 4
+var cadena:String = String() // la variable cadena tendra un valor de tipo string
+cadena = "Hola mundo" + v1 // se concatenan 2 cadenas
+
+print("El contenido es: \(cadena)") // se imprimen en pantalla los 2 valores de las cadenas concatenadas
+print("El valor de la constante es: \(c1)") // se imprimen en pantalla los 2 valores de las cadenas concatenadas
